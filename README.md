@@ -27,14 +27,14 @@ Vify is a full-stack language exchange platform that connects users worldwide to
 ## 📸 Screenshots
 
 
-![Login Page](./screenshots/login.png)
-![Signup Page](./screenshots/signup.png)
-![Onboarding Page](./screenshots/onboarding.png)
-![Home Page](./screenshots/home.png)
-![Friends Page](./screenshots/friends.png)
-![Notification Page](./screenshots/notification.png)
-![Chat Page](./screenshots/chat.png)
-![Video Page](./screenshots/video.png)
+![Login Page](frontend/public/screenshots/login.png)
+![Signup Page](frontend/public/screenshots/signup.png)
+![Onboarding Page](frontend/public/screenshots/onboarding.png)
+![Home Page](frontend/public/screenshots/home.png)
+![Friends Page](frontend/public/screenshots/friends.png)
+![Notification Page](frontend/public/screenshots/notification.png)
+![Chat Page](frontend/public/screenshots/chat.png)
+![Video Page](frontend/public/screenshots/video.png)
 
 ---
 
