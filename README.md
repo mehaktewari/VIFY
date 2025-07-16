@@ -72,7 +72,7 @@ Vify is a full-stack language exchange platform that connects users worldwide to
 
 ## 📂 Folder Structure (MERN Stack)
 
-
+```md 
 vify/
 ├── frontend/                     # React frontend
 │   ├── public/
@@ -96,7 +96,7 @@ vify/
 ├── vite.config.js
 ├── package.json(s)            # Possibly separate for client/server
 └── tsconfig.json (or jsconfig) 
-
+```
 ---
 
 ## ⚙️ Getting Started Locally
