@@ -26,21 +26,43 @@ Vify is a full-stack language exchange platform that connects users worldwide to
 
 ## 📸 Screenshots
 
-
+- LOGIN PAGE
+  
 ![Login Page](frontend/public/screenshots/login.png)
+
+- SIGNUP PAGE
+  
 ![Signup Page](frontend/public/screenshots/signup.png)
+
+- ONBOARDING PAGE
+  
 ![Onboarding Page](frontend/public/screenshots/onboarding.png)
+
+- HOME PAGE
+  
 ![Home Page](frontend/public/screenshots/home.png)
+
+- FRIENDS PAGE
+  
 ![Friends Page](frontend/public/screenshots/friends.png)
+
+- NOTIFICATION PAGE
+  
 ![Notification Page](frontend/public/screenshots/notification.png)
+
+- CHAT PAGE
+  
 ![Chat Page](frontend/public/screenshots/chat.png)
+
+- VIDEO PAGE
+
 ![Video Page](frontend/public/screenshots/video.png)
 
 ---
 
 ## 🛠️ Tech Stack
 
---
+
 
 | Frontend | Backend           | Database | Other                        |
 | -------- | ----------------- | -------- | ---------------------------- |
@@ -50,7 +72,6 @@ Vify is a full-stack language exchange platform that connects users worldwide to
 
 ## 📂 Folder Structure (MERN Stack)
 
-```md 
 
 vify/
 ├── frontend/                     # React frontend
@@ -76,12 +97,9 @@ vify/
 ├── package.json(s)            # Possibly separate for client/server
 └── tsconfig.json (or jsconfig) 
 
---
-
+---
 
 ## ⚙️ Getting Started Locally
-
---
 
 ### Prerequisites
 - Node.js
@@ -90,7 +108,7 @@ vify/
 
 ### Clone and Run
 
-```md 
+
 
 - git clone [https://github.com/mehaktewari/vify]
 - cd vify
@@ -118,8 +136,6 @@ vify/
 
 ## 🌍 Deployment
 
---
-
 - Frontend: Vercel / Render (React build)
 - Backend: Render (Node.js)
 - Database: MongoDB Atlas
@@ -128,17 +144,13 @@ vify/
 
 ---
 
-
 ## 📄 License
 
---
 - This project is licensed under the MIT License — see the LICENSE file for details.
 
 ---
 
 ## 💬 Contact
-
---
 
 - Have questions? Want to contribute? Let’s connect!
 
