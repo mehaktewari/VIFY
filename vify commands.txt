@@ -1,0 +1,19 @@
+cd frontend
+npm create vite@latest .
+npm install
+npm run dev
+npm i -D daisyui@4.12.24
+npm i react-router
+npm i react-hot-toast
+npm i @tanstack/react-query
+npm i axios
+
+
+
+
+cd backend
+npm init -y
+npm install
+\\ to get JWT_SECRET_KEY
+[byte[]] $bytes = New-Object byte[] 32; (New-Object System.Security.Cryptography.RNGCryptoServiceProvider).GetBytes($bytes); [Convert]::ToBase64String($bytes)
+

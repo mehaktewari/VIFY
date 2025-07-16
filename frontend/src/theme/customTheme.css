@@ -1,0 +1,19 @@
+/* Custom menu text colors */
+.str-video__call-controls,
+.str-video__menu,
+.str-video__menu-item {
+  color: #ffffff !important; /* White text */
+}
+
+.str-video__menu-item:hover {
+  color: #3ea6ff !important; /* Blue on hover */
+}
+
+/* Background colors for better contrast */
+.str-video__menu {
+  background-color: #1e293b !important; /* Dark slate */
+}
+
+.str-video__menu-item:hover {
+  background-color: #334155 !important; /* Slightly lighter slate */
+}
